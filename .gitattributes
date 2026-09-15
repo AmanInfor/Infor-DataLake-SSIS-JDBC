@@ -1,0 +1,9 @@
+*.slnx text eol=crlf
+*.dtproj text eol=crlf
+*.dtsx text eol=crlf
+*.params text eol=crlf
+*.database text eol=crlf
+
+*.md text eol=lf
+*.html text eol=lf
+*.gitignore text eol=lf
